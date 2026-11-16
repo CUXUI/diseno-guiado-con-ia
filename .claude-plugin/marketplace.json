@@ -1,0 +1,33 @@
+{
+  "name": "diseno-guiado-con-ia",
+  "owner": {
+    "name": "Comunidad UX/UI",
+    "url": "https://github.com/ComunidadUXUI"
+  },
+  "metadata": {
+    "description": "Stack de Diseño Guiado: 7 skills que llevan una idea de producto hasta un prototipo navegable con handoff.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "diseno-guiado",
+      "description": "Stack de Diseño Guiado: 7 skills que llevan una idea de producto hasta un prototipo navegable con handoff.",
+      "source": "./",
+      "strict": false,
+      "version": "1.0.0",
+      "author": {
+        "name": "Comunidad UX/UI"
+      },
+      "license": "CC-BY-NC-SA-4.0",
+      "skills": [
+        "./skills/skill-0-contexto-base",
+        "./skills/skill-1-accesibilidad",
+        "./skills/skill-2-compliance",
+        "./skills/skill-3-interaccion",
+        "./skills/skill-4-visual",
+        "./skills/skill-5-writing",
+        "./skills/skill-6-composicion"
+      ]
+    }
+  ]
+}
