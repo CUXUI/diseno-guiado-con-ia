@@ -53,7 +53,7 @@ Abre un chat nuevo y escribe tu idea: *«Quiero diseñar una app de finanzas per
 
 ### En claude.ai y en Cowork
 
-1. Descarga los zips `skill-0-contexto-base.zip` a `skill-6-composicion.zip` (puedes subir varios a la vez) desde **[Releases](https://github.com/ComunidadUXUI/diseno-guiado-con-ia/releases/latest)**.
+1. Descarga los zips `skill-0-contexto-base.zip` a `skill-6-composicion.zip` (puedes subir varios a la vez) desde **[Releases](https://github.com/CUXUI/diseno-guiado-con-ia/releases/latest)**.
 2. En Claude, entra a **Personalizar → Skills → + → Subir una skill** y súbelo tal como lo descargaste.
 3. Abre un chat nuevo y pide lo que necesitas.
 
@@ -62,7 +62,7 @@ Guía paso a paso con capturas: **[cómo subir una skill a claude.ai](NOTION_LIN
 ### En Claude Code
 
 ```
-/plugin marketplace add ComunidadUXUI/diseno-guiado-con-ia
+/plugin marketplace add CUXUI/diseno-guiado-con-ia
 /plugin install diseno-guiado@diseno-guiado-con-ia
 ```
 
@@ -71,7 +71,7 @@ Después pide lo que necesitas o llama la skill directo: `/skill-0-contexto-base
 ### En Codex, Cursor, Gemini CLI y otros agentes
 
 ```bash
-npx skills add ComunidadUXUI/diseno-guiado-con-ia
+npx skills add CUXUI/diseno-guiado-con-ia
 ```
 
 Necesita Node.js 22.20 o superior. Si tu agente no instala skills, deja el repositorio en tu carpeta de trabajo y pídele que lea el `SKILL.md` de la carpeta `skills/` y lo siga.
@@ -89,7 +89,7 @@ skills/
 └── skill-6-composicion/       prototipo y handoff
 ```
 
-¿Ya tienes un producto y quieres evaluarlo en lugar de crearlo? Para eso está [Auditoría UX con IA](https://github.com/ComunidadUXUI/auditoria-ux-con-ia).
+¿Ya tienes un producto y quieres evaluarlo en lugar de crearlo? Para eso está [Auditoría UX con IA](https://github.com/CUXUI/auditoria-ux-con-ia).
 
 ## Límites honestos
 
@@ -103,7 +103,7 @@ Las skills te ordenan las decisiones. Que alguien con más experiencia mire tu p
 
 ¿Prefieres empezar por correo? Suscríbete a **[Minuto UX](https://comunidad-uxui.kit.com/fb40f8e711)**, el newsletter de Comunidad UX/UI.
 
-**Más skills de Comunidad UX/UI:** [Auditoría UX con IA](https://github.com/ComunidadUXUI/auditoria-ux-con-ia) · [Excalidraw UX](https://github.com/ComunidadUXUI/excalidraw-ux) · [Crea tu asesor](https://github.com/ComunidadUXUI/crea-tu-asesor) · [Modo Fable](https://github.com/ComunidadUXUI/modo-fable) · [Ahorro de tokens](https://github.com/ComunidadUXUI/ahorro-de-tokens)
+**Más skills de Comunidad UX/UI:** [Auditoría UX con IA](https://github.com/CUXUI/auditoria-ux-con-ia) · [Excalidraw UX](https://github.com/CUXUI/excalidraw-ux) · [Crea tu asesor](https://github.com/CUXUI/crea-tu-asesor) · [Modo Fable](https://github.com/CUXUI/modo-fable) · [Ahorro de tokens](https://github.com/CUXUI/ahorro-de-tokens)
 
 ## Licencia
 
