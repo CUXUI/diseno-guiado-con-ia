@@ -89,7 +89,7 @@ skills/
 └── skill-6-composicion/       prototipo y handoff
 ```
 
-¿Ya tienes un producto y quieres evaluarlo en lugar de crearlo? Para eso está [Auditoría UX con IA](https://github.com/CUXUI/auditoria-ux-con-ia).
+¿Ya tienes un producto y quieres evaluarlo en lugar de crearlo? Para eso tenemos otro stack: la Auditoría UX con IA.
 
 ## Límites honestos
 
@@ -101,9 +101,12 @@ skills/
 
 Las skills te ordenan las decisiones. Que alguien con más experiencia mire tu prototipo y te diga qué defender y qué cambiar es lo que hacemos en **[Comunidad UX/UI](https://www.skool.com/comunidaduxui/about)** con feedback sobre tus propios trabajos.
 
+<p align="center"><a href="https://www.skool.com/comunidaduxui/about"><img src="docs/cta-comunidad.png" alt="Súmate a Comunidad UX/UI" width="100%"></a></p>
+
 ¿Prefieres empezar por correo? Suscríbete a **[Minuto UX](https://comunidad-uxui.kit.com/fb40f8e711)**, el newsletter de Comunidad UX/UI.
 
-**Más skills de Comunidad UX/UI:** [Auditoría UX con IA](https://github.com/CUXUI/auditoria-ux-con-ia) · [Excalidraw UX](https://github.com/CUXUI/excalidraw-ux) · [Crea tu asesor](https://github.com/CUXUI/crea-tu-asesor) · [Modo Fable](https://github.com/CUXUI/modo-fable) · [Ahorro de tokens](https://github.com/CUXUI/ahorro-de-tokens)
+<p align="center"><a href="https://comunidad-uxui.kit.com/fb40f8e711"><img src="docs/cta-minuto-ux.png" alt="Suscríbete a Minuto UX" width="100%"></a></p>
+
 
 ## Licencia
 
